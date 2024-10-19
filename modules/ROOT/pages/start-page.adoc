@@ -1,0 +1,7 @@
+= Our Products
+
+Choose your friend
+
+image:cat.jpg[Cat,200,link=xref:component-1::index.adoc]
+
+image:dog.jpg[Dog,200,link=xref:component-2::index.adoc]
